@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19952193.svg)](https://doi.org/10.5281/zenodo.19952193)
 # **Shiftless Collatz-3 Model**  
 Hiroshi Harada — May 2, 2026
 
